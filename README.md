@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on a master in Cybernetics (autonomous systems)
+- 🔭 WIP: master in Cybernetics (autonomous systems)
 - 📫 How to reach me: simon.ler@outlook.com
 - :bowtie:
 
